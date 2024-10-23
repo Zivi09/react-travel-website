@@ -1,7 +1,7 @@
 import React from "react";
 import { Breadcrumbs } from "../../Breadcrumbs/Breadcrumbs";
 import { Col, Container, Row } from "react-bootstrap";
-import { destinationsData } from "../../utils/data";
+import { destinationsData } from "../../../utils/data";
 import Cards from "../../Cards/Cards";
 const Destination = () => {
   return (

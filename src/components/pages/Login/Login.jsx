@@ -1,6 +1,6 @@
 // src/components/Login.js
 import React, { useState } from 'react';
-import './Login.css'; // Ensure the CSS file is placed in the same directory
+import './login.css'; // Ensure the CSS file is placed in the same directory
 
 const Login = () => {
   const [formData, setFormData] = useState({ username: '', password: '' });

@@ -12,7 +12,7 @@ import "./home.css";
 
 import Gallery from "../../Gallery/Gallery";
 import Cards from "../../Cards/Cards";
-import { destinationsData, popularsData } from "../../utils/data";
+import { destinationsData, popularsData } from "../../../utils/data";
 import PopularCard from "../../Cards/PopularCard";
 
 const Home = () => {

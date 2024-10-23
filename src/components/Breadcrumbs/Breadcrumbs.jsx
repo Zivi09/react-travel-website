@@ -1,5 +1,5 @@
 import React from "react";
-import "src/components/Breadcrumbs/breadcrumbs.css";
+import "../Breadcrumbs/Breadcrumb.css";
 import { NavLink } from "react-router-dom";
 import { Breadcrumb, Container, Row } from "react-bootstrap";
 
